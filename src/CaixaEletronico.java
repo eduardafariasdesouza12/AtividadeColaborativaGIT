@@ -33,6 +33,9 @@ public class CaixaEletronico {
                 valor = scanner.nextInt();
 
                 System.out.println("Valor informado para Saque: R$"+ valor);
+
+                System.out.println("Temos as seguintes notas: 100, 50, 20, 10, 5, 2, 1");
+
                 break;
             }
             case 2: {
