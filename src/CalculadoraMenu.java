@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class CalculadoraComMenu {
     public static void main(String[] args) {
+        //editado por tatiana
 
         Scanner scanner = new Scanner(System.in);
         int num1, num2, opcao, resultado;
